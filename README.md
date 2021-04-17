@@ -24,8 +24,11 @@ Introduction to Quantum Programming with Q #
 
 
 ## Develop with Q# Jupyter Notebooks
+```
 conda create -n qsharp-env -c quantum-engineering qsharp notebook
 conda activate qsharp-env
 jupyter notebook
+```
+
 
 

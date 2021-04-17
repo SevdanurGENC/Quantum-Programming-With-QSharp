@@ -21,3 +21,11 @@ Introduction to Quantum Programming with Q #
 ## 4.Gün:
 - Introduction to Oracles
 - Introduction to Grover's Algorithm
+
+
+## Develop with Q# Jupyter Notebooks
+conda create -n qsharp-env -c quantum-engineering qsharp notebook
+conda activate qsharp-env
+jupyter notebook
+
+

@@ -29,7 +29,11 @@ conda create -n qsharp-env -c quantum-engineering qsharp notebook
 conda activate qsharp-env
 jupyter notebook
 ```
-
+```qsharp
+if (isAwesome){
+  return true
+}
+```
 
 
 

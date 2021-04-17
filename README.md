@@ -4,24 +4,24 @@ Introduction to Quantum Programming with Q #
 ![image](https://user-images.githubusercontent.com/5441882/115098833-f60e8b80-9f3a-11eb-985e-eeee6c73b52c.png)
 
 
-## 1.Gün:
+## Day 1 :
 - Complex Arithmetic
 - Linear Algebra
 - The-Qubit
 - Single Qubit Gates
 
-## 2.Gün:
+## Day 2 :
 - Multi-Qubit Systems
 - Multi-Qubit Gates
 - Superposition
 - Measurements
 
-## 3.Gün:
+## Day 3 :
 - Random Number Generation
 - Teleportation
 - Superdense Coding
 
-## 4.Gün:
+## Day 4 :
 - Introduction to Oracles
 - Introduction to Grover's Algorithm
 

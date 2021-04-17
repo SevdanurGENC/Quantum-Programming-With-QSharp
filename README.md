@@ -30,6 +30,7 @@ Introduction to Quantum Programming with Q #
 ```
 conda create -n qsharp-env -c quantum-engineering qsharp notebook
 conda activate qsharp-env
+pip install pytest
 jupyter notebook
 ```
 
